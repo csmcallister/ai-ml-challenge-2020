@@ -1,0 +1,16 @@
+.vscode/
+.env/
+env/
+__pycache__/
+.pytest_cache/
+docs/
+.gitignore
+.git
+.python-version
+*.csv
+*.ipynb
+*.md
+**/*.bin
+**/rfc.joblib
+**/gbc.joblib
+**/*.npy
